@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 849 159" width="849" height="159">
+	<title>assignment3</title>
+	<defs>
+		<image  width="35" height="2" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAACCAMAAADl95X4AAAAAXNSR0IB2cksfwAAAHhQTFRF0dHTx8jKx8jK0crJS7jhIa/vIbDtJrTuRMHxeNT1sub5////4+Tl4uLj4OHi3t/g3d3e29zd2drb19ja1tbY1dbX1NXW09TV0tPU0dLU0NHTz9DSzs/Rzs7Qzc7PzM3Py8zO0M3NtcnSMrjuQ8HxcNH0r+X54/b9DPm+XgAAACh0Uk5TGiT//////8WndDoACAoMDg4QEhQWFhgYGhocHB4eHiAgHja5qXw8CGd/WJMAAAA5SURBVHicY2BgZMIBmFlY2djYOTi5GLh5ePn4BQSFhEVExcQlJKWkZWTl5BWAQFFJWUVVTZ2bmxsASccDwoyKgpgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 12px;line-height: 20px;fill: #000000;font-family: "Arial" } 
+		.t1 { font-size: 14px;line-height: 20px;fill: #23aeef;font-weight: bold;font-family: "Arial" } 
+		.t2 { font-size: 14px;line-height: 20px;fill: #23aeef;font-family: "Arial" } 
+		.s3 { fill: #979da0 } 
+	</style>
+	<use id="Background copy" href="#img1" x="25" y="0"/>
+	<text id="Beta 2.0" style="transform: matrix(1,0,0,1,207,-2)" >
+		<tspan x="0" y="0" class="t0">B</tspan><tspan  y="0" class="t0">eta 2.0
+</tspan>
+	</text>
+	<text id="Layer 2" style="transform: matrix(1,0,0,1,297,-39)" >
+	</text>
+	<text id="Visiting adress   Postal adress   Support nr: Skindergade 15   " style="transform: matrix(1,0,0,1,256,886)" >
+		<tspan x="0" y="0" class="t1">Visiting adress			Postal adress			Support nr:
+</tspan>
+		<tspan x="0" y="20" class="t2">Skindergade 15			Box 134			</tspan><tspan  y="20" class="t1">	Sweden:</tspan><tspan  y="20" class="t2"> 0771 85 20 20
+</tspan>
+		<tspan x="0" y="40" class="t2">1159 København K		1159 København			</tspan><tspan  y="40" class="t1">Finland:</tspan><tspan  y="40" class="t2">  09 23 16 39 84
+</tspan>
+		<tspan x="0" y="60" class="t2">Denmark				Denmark				</tspan><tspan  y="60" class="t1">Norway: </tspan><tspan  y="60" class="t2">21 67 61 45
+</tspan>
+	</text>
+	<path id="Shape 23" class="s3" d="m23 12h798c5.5 0 10 5.5 10 12.3v111.4c0 6.8-4.5 12.3-10 12.3h-798c-5.5 0-10-5.5-10-12.3v-111.4c0-6.8 4.5-12.3 10-12.3z"/>
+</svg>
